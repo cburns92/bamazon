@@ -1,1 +1,2 @@
 # bamazon
+This is a little amazon-like storefront where customers can view what is on sale and make purchases so long as the inventory is available. Managers can view the inventory, view inventory with less than five units, order more of existing products, and add entirely new products to the inventory. It runs on MYSQL and node.
